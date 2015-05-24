@@ -400,7 +400,7 @@ p4 <- ggplot(data=crop_damages,
 multiplot(p3,p4)
 ```
 
-![plot of chunk unnamed-chunk-14](/figures/fig1.png)
+![plot of chunk unnamed-chunk-14](/figures/fig2.png)
 
 
 Property damages are given in logarithmic scale due to large range of values.
