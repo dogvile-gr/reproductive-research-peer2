@@ -365,7 +365,7 @@ p2 <- ggplot(data=crop_damages,
 multiplot(p1,p2)
 ```
 
-![plot of chunk unnamed-chunk-14](./dogvile-gr/reproductive-research-peer2/figures/unnamed-chunk-8-1.png.png) 
+![plot of chunk unnamed-chunk-14](./dogvile-gr/reproductive-research-peer2/figures/unnamed-chunk-8-1.png) 
 
 
 Tornadoes cause most number of deaths and injuries among all event types. There 
@@ -400,7 +400,7 @@ p4 <- ggplot(data=crop_damages,
 multiplot(p3,p4)
 ```
 
-![plot of chunk unnamed-chunk-14](./dogvile-gr/reproductive-research-peer2/figures/unnamed-chunk-9-1.png.png)
+![plot of chunk unnamed-chunk-14](./dogvile-gr/reproductive-research-peer2/figures/unnamed-chunk-9-1.png)
 
 
 Property damages are given in logarithmic scale due to large range of values.
