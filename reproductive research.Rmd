@@ -412,4 +412,6 @@ view of the causes.
 The most severe weather event in terms of crop damage is the flood. In the last
 half century, the drought has caused more than 10 billion dollars damage. Other
 severe crop-damage-causing event types are floods and hails.
+
+Maybe as next step can be categorize to larger groups and vizualize them in stackbar chart.
 >>>>>>> origin/master
